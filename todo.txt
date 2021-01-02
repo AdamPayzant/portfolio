@@ -1,0 +1,7 @@
+Stuff that actually needs to get done before finalization
+
+- Maybe add to the homepage
+- Fix qmk icon
+- Change images (set background and make picture actually of myself)
+- Probably should make the README half decent
+- Add contact form
