@@ -1,5 +1,5 @@
 ---
-title: HOME
+title: Home
 description: Welcome to this sample project
 images: ["/images/sample.jpg"]
 ---
