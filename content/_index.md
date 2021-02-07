@@ -16,4 +16,4 @@ I'm Adam Payzant; a computer science student and software developer
 ### What I'm Currently Learning:
 * Golang
 * OpenCV + CV theory
-* Crypto (Cryptography and Cryptoanalysis)
+* Crypto (Cryptography and Cryptanalysis)
